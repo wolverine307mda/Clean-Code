@@ -1,6 +1,6 @@
 # Clean-Code
 
-CLEAN CODE
+### CLEAN CODE
 
 1. **Usa nombres con significado**
 1. **Usa nombres fáciles de pronunciar**
@@ -25,40 +25,42 @@ CLEAN CODE
 1. **Usa excepciones unchecked.**
 1. **No devuelvas Null**
 
-|<p>markdown</p><p>![](Aspose.Words.9e105bf2-0803-4999-8817-5cae2699efcb.001.png) **[Líneas**](https://tutorialmarkdown.com/sintaxis/#saltos-de-linea)**: Para iniciar una nueva línea debes agregar dos espacios en blanco al final de la línea, pulsar INTRO o usar una barra invertida \, según el editor que uses.</p><p>![](Aspose.Words.9e105bf2-0803-4999-8817-5cae2699efcb.002.png) **[Párrafos**](https://tutorialmarkdown.com/sintaxis/#parrafos)**: Para crear un nuevo párrafo sencillamente debes dejar una línea en blanco.</p>||
+
+## MARKDOWN 
+
+Para iniciar una nueva línea debes agregar dos espacios en blanco al final de la línea,
+pulsar INTRO o usar una barra invertida \, según el editor que uses. Para crear un nuevo párrafo 
+sencillamente debes dejar una línea en blanco.
+
+| GUÍA | |
 | - | :- |
-|**Elemento**|**Sintaxis**|
-|[**Encabezados**](https://tutorialmarkdown.com/sintaxis/#encabezados)|# H1  -  ## H2  -  ### H3|
-|[**Negrita**](https://tutorialmarkdown.com/sintaxis#negrita)|\*\*texto\*\*     \_\_texto\_\_|
-|[**Cursiva**](https://tutorialmarkdown.com/sintaxis#cursiva)|\*texto\*|
-|[**Negrita](https://tutorialmarkdown.com/sintaxis#negrita) **y [Cursiva**](https://tutorialmarkdown.com/sintaxis#cursiva)**|\*\*\*texto\*\*\*|
-|[**Citas**](https://tutorialmarkdown.com/sintaxis#citas)|> cita|
-|[**Listas ordenadas**](https://tutorialmarkdown.com/sintaxis#listas-ordenadas)|1\. Lista|
-|[**Listas no ordenadas**](https://tutorialmarkdown.com/sintaxis#listas-no-ordenadas)|<p>\* Primer elemento</p><p>+ Primer elemento</p><p>- Primer elemento</p>|
-|[**Código**](https://tutorialmarkdown.com/sintaxis#codigo)|`código`|
-|[**Línea horizontal**](https://tutorialmarkdown.com/sintaxis#lineas-horizontales)|---|
-|[**Enlaces**](https://tutorialmarkdown.com/sintaxis#enlaces)|[anchor](https://enlace.tld "título")|
-|[**Imágenes**](https://tutorialmarkdown.com/sintaxis#imagenes)|![Alt](/ruta/imagen.png)|
-|[**Tablas**](https://tutorialmarkdown.com/sintaxis-extendida#tablas)|<p>| Color | Código |</p><p>| ----------- | ----------- | | Rojo | #FF0000 |</p><p>| Azul | #0000FF |</p>|
-|||
+| **Elemento** | **Sintaxis** |
+| **Encabezados** | # H1  -  ## H2  -  ### H3 |
+| **Negrita** | \*\*texto\*\*     \_\_texto\_\_ |
+| **Cursiva** | \*texto\* |
+| **Negrita** | \*\*\*texto\*\*\* |
+| **Citas** | > cita |
+| **Listas ordenadas** | 1\. Lista |
+| **Listas no ordenadas** | 
+  - Primer elemento
+  + Primer elemento
+  - Primer elemento |
+| **Código** | \`código\` |
+| **Línea horizontal** | --- |
+| **Enlaces** | [anchor](https://enlace.tld "título") |
+| **Imágenes** | ![Alt](/ruta/imagen.png) |
+| **Tablas** | 
+| Color | Código |
+| ----------- | ----------- |
+| Rojo | #FF0000 |
+| Azul | #0000FF |
+| **Texto tachado** | ~~Texto tachado~~ |
+| **Listas de tareas** | - [x] Primera tarea <br>- [ ] Segunda tarea |
+| **Enlaces automáticos** | [https://www.neoguias.com](https://www.neoguias.com) |
 
-[**Bloques de código avanzados**](https://tutorialmarkdown.com/sintaxis-extendida#bloques-de-codigo) ```![](Aspose.Words.9e105bf2-0803-4999-8817-5cae2699efcb.003.png)
 
-{
-
-`  `"Nombre": "Edu",   "Peso": "72Kg"
-
-}
-
-\```
-
-[**Texto tachado**](https://tutorialmarkdown.com/sintaxis-extendida#texto-tachado) ~~Texto tachado~~ [**Listas de tareas**](https://tutorialmarkdown.com/sintaxis-extendida#listas-de-tareas) - [x] Primera tarea
-
-\- [ ] Segunda tarea
-
-[**Enlaces automáticos**](https://tutorialmarkdown.com/sintaxis-extendida#enlaces-automaticos) https://www.neoguias.com
-
-Documentación
+<br><br>
+### Documentación
 
 **Para abrir y cerrar documentación:** 
 
